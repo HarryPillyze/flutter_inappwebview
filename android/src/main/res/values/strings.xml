@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_go_back">Go Back</string>
-    <string name="action_go_forward">Go Forward</string>
-    <string name="action_reload">Reload</string>
-    <string name="action_share">Share</string>
-    <string name="action_close">Close</string>
-    <string name="menu_search">Search</string>
+    <string name="action_go_back">뒤로가기</string>
+    <string name="action_go_forward">앞으로</string>
+    <string name="action_reload">새로고침</string>
+    <string name="action_share">공유</string>
+    <string name="action_close">닫기</string>
+    <string name="menu_search">검색</string>
 </resources>
